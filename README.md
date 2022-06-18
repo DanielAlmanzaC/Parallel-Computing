@@ -1,2 +1,4 @@
 # Parallel-Computing
-On this repository you'll find some codes of parallel computing :D
+Here are some sorting algorithms done in PThreads, OMP and IMP
+
+(On the branches you can also find some lower level codes)
